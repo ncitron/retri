@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Noah Citron"]
 license = "MIT"
+description = "Retri provides simple and highly compatible exponential retries."
+homepage = "https://github.com/ncitron/retri"
+repository = "https://github.com/ncitron/retri"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
